@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/memo_book" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/otherDemo/AndroidMemorandum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/otherDemo/EasyNoteAPP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/otherDemo/Memo-to-Android-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/otherDemo/Memo2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/otherDemo/MyAppAndroid" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/otherDemo/MyBeiwanglu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/otherDemo/memo" vcs="Git" />
+  </component>
+</project>
