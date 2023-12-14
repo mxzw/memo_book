@@ -81,6 +81,7 @@ public class MemoBookActivity extends BaseActivity {
             public void onClick(View view) {
                 Intent intent = new Intent(MemoBookActivity.this, UserDetailsActivity.class);
                 startActivity(intent);
+                MemoBookActivity.this.finish();
             }
         });
         //添加事项
@@ -89,6 +90,7 @@ public class MemoBookActivity extends BaseActivity {
             public void onClick(View view) {
                 Intent intent = new Intent(MemoBookActivity.this, NewMatterActivity.class);
                 startActivity(intent);
+                MemoBookActivity.this.finish();
             }
         });
 

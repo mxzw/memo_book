@@ -30,29 +30,28 @@
         </activity>
         <activity
             android:name=".MainActivity"
-            android:launchMode="singleTask"
-            android:exported="true" />
+            android:exported="true"
+            android:launchMode="singleTask" />
         <activity android:name="com.bhp.memo_book.ui.BaseActivity" />
 
         <activity
             android:name=".memo.MemoBookActivity"
-            android:launchMode="singleTask"
             android:exported="true" />
 
         <activity
             android:name=".memo.NewMatterActivity"
-            android:launchMode="singleTask"
-            android:exported="true" />
+            android:exported="true"
+            android:launchMode="singleTask" />
 
         <activity
             android:name=".memo.MatterDetailsActivity"
-            android:launchMode="singleTask"
-            android:exported="true" />
+            android:exported="true"
+            android:launchMode="singleTask" />
 
         <activity
             android:name=".memo.UserDetailsActivity"
-            android:launchMode="singleTask"
-            android:exported="true" />
+            android:exported="true"
+            android:launchMode="singleTask" />
     </application>
 
 </manifest>
